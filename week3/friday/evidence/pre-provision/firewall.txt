@@ -1,0 +1,6 @@
+=== UFW STATUS ===
+Status: inactive
+
+=== UFW CONFIGURED RULES ===
+Added user rules (see 'ufw status' for running firewall):
+ufw allow 8080/tcp

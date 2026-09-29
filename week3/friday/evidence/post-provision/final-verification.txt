@@ -1,0 +1,29 @@
+==============================================
+KIJANI HEALTH CHECK
+Timestamp: 2026-09-29 20:37:10
+Hostname: kijanikiosk01
+==============================================
+
+SERVICES
+----------------------------------------------
+[OK] kijani-api.service is active
+[OK] kijani-payments.service is active
+[OK] kijani-worker.service is active
+
+FIREWALL
+----------------------------------------------
+[OK] UFW is active
+
+CONFIGURATION
+----------------------------------------------
+[OK] /etc/kijani/kijani.conf exists
+
+DIRECTORIES
+----------------------------------------------
+[OK] /opt/kijani/api exists
+[OK] /opt/kijani/payments exists
+[OK] /opt/kijani/worker exists
+
+==============================================
+OVERALL STATUS: HEALTHY
+==============================================

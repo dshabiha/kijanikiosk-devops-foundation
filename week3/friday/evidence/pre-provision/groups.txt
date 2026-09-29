@@ -1,0 +1,3 @@
+uid=999(kijani-api) gid=988(kijani-api) groups=988(kijani-api)
+uid=997(kijani-payments) gid=987(kijani-payments) groups=987(kijani-payments)
+uid=995(kijani-worker) gid=986(kijani-worker) groups=986(kijani-worker)

@@ -1,0 +1,14 @@
+=== DIRECTORY PERMISSIONS ===
+drwxrwxrwx 2 root root 4096 Sep 29 18:58 /opt/kijani
+
+=== CONFIG DIRECTORY ===
+drwxr-xr-x 2 root root 4096 Sep 29 19:21 /etc/kijani
+
+=== CONFIG FILE ===
+-rw-rw-rw- 1 root root 61 Sep 29 19:24 /etc/kijani/kijani.conf
+
+=== CONFIG CONTENT ===
+ENV=development
+DEBUG=true
+API_PORT=8080
+PAYMENTS_DEBUG=true

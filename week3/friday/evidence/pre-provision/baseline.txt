@@ -1,0 +1,39 @@
+=== HOSTNAME ===
+kijanikiosk01
+
+=== CURRENT USER ===
+shabiha
+
+=== NETWORK ===
+lo               UNKNOWN        127.0.0.1/8 ::1/128 
+eth0             UP             192.168.1.72/24 metric 100 fe80::be24:11ff:fec1:a54e/64 
+
+=== DISK ===
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        29G  2.9G   26G  11% /
+
+=== MEMORY ===
+               total        used        free      shared  buff/cache   available
+Mem:           1.9Gi       928Mi       195Mi       1.0Mi       1.0Gi       1.0Gi
+Swap:             0B          0B          0B
+
+=== GIT ===
+git version 2.43.0
+
+=== PYTHON ===
+Python 3.12.3
+
+=== NODE ===
+Command 'node' not found, but can be installed with:
+sudo apt install nodejs
+
+=== NPM ===
+Command 'npm' not found, but can be installed with:
+sudo apt install npm
+
+=== UFW ===
+Status: inactive
+
+=== KIJANI SERVICE ===
+enabled
+inactive

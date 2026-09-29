@@ -1,0 +1,18 @@
+=== KIJANI API SERVICE FILE ===
+# /etc/systemd/system/kijani-api.service
+[Unit]
+Description=Kijani API Dirty Service
+
+[Service]
+User=root
+ExecStart=/bin/sleep infinity
+Restart=no
+
+[Install]
+WantedBy=multi-user.target
+
+=== SERVICE ENABLEMENT ===
+enabled
+
+=== SERVICE STATE ===
+inactive

@@ -1,0 +1,3 @@
+kijani-api:x:999:988::/home/kijani-api:/usr/sbin/nologin
+kijani-payments:x:997:987::/home/kijani-payments:/usr/sbin/nologin
+kijani-worker:x:995:986::/home/kijani-worker:/usr/sbin/nologin
